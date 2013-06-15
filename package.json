@@ -1,14 +1,14 @@
 {
-  "name": "gadgets-util",
+  "name": "gadgets.util",
   "version": "0.0.0",
   "description": "gadgets.util module for Anchor.js.",
   "keywords": ["opensocial", "gadgets", "util"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/js-gadgets-util.git"
+    "url": "git://github.com/jaredhanson/js-gadgets.util.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/js-gadgets-util/issues"
+    "url": "http://github.com/jaredhanson/js-gadgets.util/issues"
   },
   "author": {
     "name": "Jared Hanson",
