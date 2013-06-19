@@ -76,6 +76,7 @@ clean:
 
 clobber: clean
 	rm -rf node_modules
+	rm -rf components
 	rm -rf test/www/js/lib
 
 
