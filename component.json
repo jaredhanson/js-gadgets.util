@@ -1,0 +1,12 @@
+{
+  "name": "gadgets.util",
+  "version": "0.0.0",
+  "description": "gadgets.util module for Anchor.js.",
+  "keywords": ["opensocial", "gadgets", "util"],
+  "repo": "jaredhanson/js-gadgets.util",
+  "main": "main.js",
+  "scripts": [
+    "main.js"
+  ],
+  "license": "MIT"
+}
